@@ -1,0 +1,6 @@
+# example netlify.toml
+[build]
+  command = "portray as_html"
+  publish = "site"
+
+## more info https://www.netlify.com/docs/netlify-toml-reference/
