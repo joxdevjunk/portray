@@ -86,3 +86,6 @@ site/
 out
 poetry.lock
 
+
+# Local Netlify folder
+.netlify
